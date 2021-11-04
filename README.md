@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdinamulhasan
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Hyperledger Fabric.
+- 🌱 I’m currently learning Hyperledger Fabric and Solona.
 
 
 <!---
